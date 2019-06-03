@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RuntimePermissions</string>
+    <string name="mandatory_permission_title">Mandatory permissions?</string>
+    <string name="mandatory_permission_message">Application requires some mandatory permissions, please accept to proceed.</string>
+    <string name="mandatory_permission_positive_button_name">Accept</string>
+    <string name="mandatory_permission_negative_button_name">Cancel</string>
+</resources>
